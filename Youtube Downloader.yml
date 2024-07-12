@@ -1,0 +1,9 @@
+# This program uses selenium-java in Java to use the URL
+# This is an automated bot! All it does is download the video from a website, and move them here!
+# Enter the resolution below! (NOTE: Enter them like youtube DISPLAYS them like 1080p 4(something)p 2(something) 360p 480p)
+# 4K, 2K, and 8K do not WORK! They are displayed as a little red text above the actual resolution like 4(something)p
+# You can also just put '360' or '480' and it will work
+# If it doesn't find the correct resolution, it will download the top one! (Note: it might be lots of data)
+# DO NOT run multiple 'Download Video' at once. They will interfere! Use the multi-download feature.
+# put it on the FIRST line
+480p
